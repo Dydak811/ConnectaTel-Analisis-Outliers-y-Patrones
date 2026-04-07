@@ -58,4 +58,5 @@ El dataset contiene información sobre:
 ## 🚀 Cómo ejecutar el proyecto
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/connectatel-analysis.git
+git clone https://github.com/Dydak811/ConnectaTel-Analisis-Outliers-y-Patrones.git
+
