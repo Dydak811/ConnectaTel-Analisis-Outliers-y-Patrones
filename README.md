@@ -59,4 +59,5 @@ El dataset contiene información sobre:
 1. Clonar el repositorio:
 ```bash
 git clone https://github.com/Dydak811/ConnectaTel-Analisis-Outliers-y-Patrones.git
+2. (Abre el repositorio en google Colab, dentro del archivo viene el link para crear una copia.)
 
